@@ -4,7 +4,7 @@ in its simplest classic forms:
    SUMMING:       total = total + number
 
 Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher, Mark Hays,
-         Aaron Wilkin, their colleagues, and Luke Spannan.
+         Aaron Wilkin, their colleagues, and Luke Spannan
          Note: I received assistance on this module with the help of classmate James Werne.
 """  # DONE: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
